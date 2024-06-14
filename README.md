@@ -1,25 +1,19 @@
-- 👋 Hi, I’m @yashas a bharadwaj1
-I completed my Btech in Information Science technology in May 2023 , From start of 2023 till May i worked as a Django developer intern
+I am Yashas A. Bharadwaj, a recent graduate with a B.Tech in Information Science Technology (May 2023). I am writing to provide a summary of my professional experience and the skills I have developed, which I believe would be of interest to your organization.
 
-Then from may 2023 to Jan 2024 i worked as a junior python backend developer at a AI startup (https://app.getodin.ai/dashboard) where i wrote APIs in fastapi, developed
-couple of bots for the team and also worked around deployment and new relic integration for logging  
+From January 2023 to May 2023, I worked as a Django Developer Intern, where I gained hands-on experience in web development. Following this, I served as a Junior Python Backend Developer at an AI startup, GetOdin.ai, from May 2023 to January 2024. During this role, I wrote APIs using FastAPI, developed several bots for team efficiency, and handled deployment and New Relic integration for logging. Unfortunately, due to organizational restructuring, I was laid off in January 2024.
 
-Then got laid off
+Since February 2024, I have been deeply interested in the field of data science. I have pursued extensive training and certification in key data tools and technologies:
 
-Then from Febraury 2024 i am very much drawn to data field , 
-hence finished a indepth SQL course from popular youtuber Ankit Bansal and earned my certificate did couple of case studies on public datasets
+1. **SQL**: Completed an in-depth SQL course by Ankit Bansal, earning certification and conducting case studies on public datasets.
+2. **MS-Excel**: Finished a comprehensive MS-Excel course from Codebasics, earning certification. I have used pivot tables to build Profit and Loss statements, performance reports, and quarterly analyses.
+3. **Power BI**: Currently completing an extensive Power BI course from Codebasics (80% finished). I have built multiple views for finance, sales, marketing, and supply chain as part of the coursework.
+4. **Apache Spark**: Enrolled in an in-depth Spark course by Data Vidya, where I built an ETL pipeline on Azure. I am currently involved in building projects using Spark, SQL, and Power BI.
 
-then finished a indepth MS-Excel course from poular Codebasics site and used pivot tables to build P and L statemet ,
-Performence Report,Quartwise analysis and earned my certicate 
+I am enthusiastic about applying my backend development experience and newly acquired data skills to contribute effectively to your team. I look forward to the opportunity to discuss how my background, skills, and certifications align with the needs of your organization.
 
-then finishing Power BI course from Codebasics site , its a pretty lengthy course finished 80 percent of it built 3-4 views for 
-finance,sales,marketing,supplychain as part of my course work 
+Yashas A. Bharadwaj
+yashasbharadwaj6@gmail.com 
+7892113486
 
-along with Power BI side by side i am finishing an indepth course on spark by data vidya built an etl pipeline on azure  
-
-and currently involved in building projects on power bi,spark,sql
-
-- 📫 you can reach out me ...yashasbharadwaj6@gmail.com
-for data analyst oppurtunities or collaborations
 
 
