@@ -1,4 +1,4 @@
-I am Yashas A. Bharadwaj, a recent graduate with a B.Tech in Information Science Technology (May 2023). I am writing to provide a summary of my professional experience and the skills I have developed, which I believe would be of interest to your organization.
+I am Yashas A. Bharadwaj, a recent graduate with a B.Tech in Information Science Technology (May 2023). I am writing to provide a summary of my professional experience and the skills I have developed
 
 From January 2023 to May 2023, I worked as a Django Developer Intern, where I gained hands-on experience in web development. Following this, I served as a Junior Python Backend Developer at an AI startup, GetOdin.ai, from May 2023 to January 2024. During this role, I wrote APIs using FastAPI, developed several bots for team efficiency, and handled deployment and New Relic integration for logging. Unfortunately, due to organizational restructuring, I was laid off in January 2024.
 
