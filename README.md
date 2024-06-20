@@ -4,10 +4,10 @@ From January 2023 to May 2023, I worked as a Django Developer Intern, where I ga
 
 Since February 2024, I have been deeply interested in the field of data science. I have pursued extensive training and certification in key data tools and technologies:
 
-1. **SQL**: Completed an in-depth SQL course by Ankit Bansal, earning certification and conducting case studies on public datasets.
-2. **MS-Excel**: Finished a comprehensive MS-Excel course from Codebasics, earning certification. I have used pivot tables to build Profit and Loss statements, performance reports, and quarterly analyses.
-3. **Power BI**: Currently completing an extensive Power BI course from Codebasics (80% finished). I have built multiple views for finance, sales, marketing, and supply chain as part of the coursework.
-4. **Apache Spark**: Enrolled in an in-depth Spark course by Data Vidya, where I built an ETL pipeline on Azure. I am currently involved in building projects using Spark, SQL, and Power BI.
+1. **SQL**
+2. **MS-Excel**
+3. **Power BI**
+4. **Apache Spark**
 
 I am enthusiastic about applying my backend development experience and newly acquired data skills to contribute effectively to your team. I look forward to the opportunity to discuss how my background, skills, and certifications align with the needs of your organization.
 
