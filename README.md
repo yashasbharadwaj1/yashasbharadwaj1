@@ -8,6 +8,7 @@ Since February 2024, I have been deeply interested in the field of data science.
 2. **MS-Excel**
 3. **Power BI**
 4. **Apache Spark**
+5. **Automation Testing**
 
 I am enthusiastic about applying my backend development experience and newly acquired data skills to contribute effectively to your team. I look forward to the opportunity to discuss how my background, skills, and certifications align with the needs of your organization.
 
