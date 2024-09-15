@@ -9,6 +9,8 @@ Since February 2024, I have pursued extensive training and certification in key 
 3. **Power BI**
 4. **Apache Spark**
 5. **Automation Testing**
+6. **Docker**
+7. **Kubernetes**
 
 I am enthusiastic about applying my backend development experience and newly acquired skills to contribute effectively to your team. I look forward to the opportunity to discuss how my background, skills, and certifications align with the needs of your organization.
 
