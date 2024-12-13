@@ -1,7 +1,7 @@
 
 Experience 
 
-November 2024 - 
+November 2024 - Present 
 Tredence Inc / Software QA Engineer
 
 May 2023 - Jan 2024
