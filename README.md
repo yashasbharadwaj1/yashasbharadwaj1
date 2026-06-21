@@ -1,3 +1,5 @@
+Python Playwright automation tester 
+GenAI enabled 
 
 Experience 
 
